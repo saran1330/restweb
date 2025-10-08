@@ -235,7 +235,6 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-[alt text](<Screenshot (14).png>) !
 [alt text](<Screenshot (15).png>) !
 [alt text](<Screenshot (16).png>) !
 [alt text](<Screenshot (17).png>) !
